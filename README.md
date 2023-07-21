@@ -6,3 +6,4 @@ Un archivo .gitignore local se coloca normalmente en el directorio de origen  de
 Tambien puedes crear un archivo.
 
 ##### en este enlace podras encontrar mas informacion sobre gitignore asi como tambien de algunos ejemplos que te seran de ayuda[.gitignore](https://github.com/MariaPaolaVargasFernandez/practico-4/blob/main/practico%204.docx ".gitignore")
+.
